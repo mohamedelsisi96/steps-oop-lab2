@@ -1,0 +1,14 @@
+D:\c#\steps\OOP\day2\assignment\OOP2\OOP2\bin\Debug\net8.0\OOP2.exe
+D:\c#\steps\OOP\day2\assignment\OOP2\OOP2\bin\Debug\net8.0\OOP2.deps.json
+D:\c#\steps\OOP\day2\assignment\OOP2\OOP2\bin\Debug\net8.0\OOP2.runtimeconfig.json
+D:\c#\steps\OOP\day2\assignment\OOP2\OOP2\bin\Debug\net8.0\OOP2.dll
+D:\c#\steps\OOP\day2\assignment\OOP2\OOP2\bin\Debug\net8.0\OOP2.pdb
+D:\c#\steps\OOP\day2\assignment\OOP2\OOP2\obj\Debug\net8.0\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\steps\OOP\day2\assignment\OOP2\OOP2\obj\Debug\net8.0\OOP2.AssemblyInfoInputs.cache
+D:\c#\steps\OOP\day2\assignment\OOP2\OOP2\obj\Debug\net8.0\OOP2.AssemblyInfo.cs
+D:\c#\steps\OOP\day2\assignment\OOP2\OOP2\obj\Debug\net8.0\OOP2.csproj.CoreCompileInputs.cache
+D:\c#\steps\OOP\day2\assignment\OOP2\OOP2\obj\Debug\net8.0\OOP2.dll
+D:\c#\steps\OOP\day2\assignment\OOP2\OOP2\obj\Debug\net8.0\refint\OOP2.dll
+D:\c#\steps\OOP\day2\assignment\OOP2\OOP2\obj\Debug\net8.0\OOP2.pdb
+D:\c#\steps\OOP\day2\assignment\OOP2\OOP2\obj\Debug\net8.0\OOP2.genruntimeconfig.cache
+D:\c#\steps\OOP\day2\assignment\OOP2\OOP2\obj\Debug\net8.0\ref\OOP2.dll
